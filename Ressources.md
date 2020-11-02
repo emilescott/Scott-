@@ -11,3 +11,6 @@
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
 
+### Config du projet
+* [Gitignore générateur](https://www.gitignore.io/)
+
