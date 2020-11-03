@@ -9,6 +9,12 @@
 * [FlutterFire](https://firebase.flutter.dev/)
 * [Signature debug application android](https://developers.google.com/android/guides/client-auth)
 
+### Flutter plugins
+
+* [Cloud Firebase](https://pub.dev/packages/cloud_firestore)
+* [Firebase Core](https://pub.dev/packages/firebase_core)
+* [Firebase Auth](https://pub.dev/packages/firebase_auth)
+
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
 
