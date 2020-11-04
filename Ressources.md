@@ -14,6 +14,7 @@
 * [Cloud Firebase](https://pub.dev/packages/cloud_firestore)
 * [Firebase Core](https://pub.dev/packages/firebase_core)
 * [Firebase Auth](https://pub.dev/packages/firebase_auth)
+* [Firebase Storage](https://pub.dev/packages/firebase_storage)
 
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
