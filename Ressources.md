@@ -9,6 +9,7 @@
 * [FlutterFire](https://firebase.flutter.dev/)
 * [Signature debug application android](https://developers.google.com/android/guides/client-auth)
 * [Firebase tools](https://firebase.google.com/docs/cli#mac-linux-npm)
+* [Firebase tools (NPM)](https://www.npmjs.com/package/firebase-tools)
 
 ### Flutter plugins
 
