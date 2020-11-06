@@ -18,6 +18,10 @@
 * [Firebase Auth](https://pub.dev/packages/firebase_auth)
 * [Firebase Storage](https://pub.dev/packages/firebase_storage)
 
+### Camera
+
+* [Camera](https://pub.dev/packages/camera)
+
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
 
