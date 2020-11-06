@@ -22,6 +22,10 @@
 
 * [Camera](https://pub.dev/packages/camera)
 
+### Gestion de fichier
+
+* [Path Provider](https://pub.dev/packages/path_provider)
+
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
 
