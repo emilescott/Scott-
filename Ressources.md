@@ -26,6 +26,10 @@
 
 * [Path Provider](https://pub.dev/packages/path_provider)
 
+### Plugins sympas
+
+[Spinkit](https://pub.dev/packages/flutter_spinkit)
+
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
 
