@@ -35,6 +35,7 @@
 
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
+* [Crypto](https://pub.dev/packages/crypto)
 
 ### Config du projet
 * [Gitignore générateur](https://www.gitignore.io/)
