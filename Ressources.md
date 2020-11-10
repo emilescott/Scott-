@@ -29,6 +29,7 @@
 ### Plugins sympas
 
 [Spinkit](https://pub.dev/packages/flutter_spinkit)
+[Slugify](https://pub.dev/packages/slugify)
 
 ### Dart
 * [Coder en dart](https://dartpad.dev/)
