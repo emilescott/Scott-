@@ -22,6 +22,7 @@
 
 * [Camera](https://pub.dev/packages/camera)
 * [Storage path](https://pub.dev/packages/storage_path)
+* [Transparent image](https://pub.dev/packages/transparent_image)
 
 ### Gestion de fichier
 
